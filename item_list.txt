@@ -1,0 +1,8 @@
+sed
+awk
+lvm
+zip files from directory then copy to another directory
+setup iscsci mount
+read python file
+get number of lines in text file using python
+line 8
