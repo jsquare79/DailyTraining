@@ -6,3 +6,14 @@ setup iscsci mount
 read python file
 get number of lines in text file using python
 line 8
+something with random
+cat
+mem
+top
+unmount an iscsi share
+make a for loop in python
+make a for loop in c
+make a for loop in javascript
+make a while loop in python
+make a while loop in c
+make a while loop in javascript
